@@ -31,7 +31,7 @@ function wait_bar () {
 }
 
 #default package list
-package_list="nano cron vim-nox ntp openssh-server rsyslog logrotate net-tools"
+package_list="nano less cron vim-nox ntp openssh-server rsyslog logrotate net-tools"
 
 #default distrubution
 default_dis="debian/10"
